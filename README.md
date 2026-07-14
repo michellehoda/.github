@@ -1,4 +1,4 @@
-# Michelle H Wilkerson
+# Michelle H Wilkerson (michellehoda)
 
 I'm an Associate Professor of Learning Sciences and Science and Mathematics Education 
 at the Berkeley School of Education at UC Berkeley.
