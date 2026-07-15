@@ -14,5 +14,5 @@ timer cred, and more experimental side projects. If you're here, you're most lik
 for one of the following:
 
 * [My Profile and CV](https://michellehoda.github.io/) : This is likely to be the most up-to-date description collection of my current activities.
-* [Writing Group Teaching Materials](https://michellehoda.github.io/writing-group/) : These resources for leading a writing group have proven useful to colleagues.
+* [Writing Group Teaching Materials](https://michellehoda.github.io/writing-group/) : These resources for organizing a writing group have proven useful to colleagues.
 * [Rivulet Next](https://github.com/michellehoda/rivulet-next) : This is a highly experimental extension to [Rivulet](https://github.com/CalCoRE/rivulet-utils), a set of Python notebook utilities to fetch pedagogically generative data. Here I'm tinkering with CODAP plugin versions of these utilites. Feedback and contributions welcome!
