@@ -9,7 +9,7 @@ are changing the ways young people learn and communicate about our work.
 
 Visit our lab's GitHub page [here](https://github.com/calcore) to learn more about our projects and 
 to find well-maintained (er, better-maintained?) code, curricula, and other research resources. On this account I keep my 
-personal CV and course materials, along with half-baked ideas, old projects to maintain my nerdy old 
+personal CV and course materials, along with half-baked ideas, past projects to maintain my nerdy old 
 timer cred, and more experimental side projects. If you're here, you're most likely looking
 for one of the following:
 
